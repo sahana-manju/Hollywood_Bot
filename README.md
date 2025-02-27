@@ -1,6 +1,6 @@
-# HollywoodBit - Movie Dialogue Chatbot
+# HollywoodBot - Movie Dialogue Chatbot
 
-**HollywoodBit** is a chatbot that generates movie dialogues, giving users the experience of conversing with dramatic characters from films. The chatbot is trained on **BlenderBot-400M Distil** for 16 hours using **TPU** to produce realistic and engaging dialogues.
+**HollywoodBot** is a chatbot that generates movie dialogues, giving users the experience of conversing with dramatic characters from films. The chatbot is trained on **BlenderBot-400M Distil** for 16 hours using **TPU** to produce realistic and engaging dialogues.
 
 ## Dataset
 - **Cornell Movie Dialogs Dataset** was used for training.
@@ -9,7 +9,7 @@
 - **Metadata**: Contains character information, movie titles, and genres.
 
 ## Purpose
-Designed for **conversational AI** and **dialogue generation**, HollywoodBit brings movie characters to life in a chat-based format.
+Designed for **conversational AI** and **dialogue generation**, HollywoodBot brings movie characters to life in a chat-based format.
 
 ## Model Weights
 You can download the model weights [here](https://drive.google.com/file/d/1XwrIrbguai9RGbl7LKKlEUCQ7bBrUNsS/view?usp=drive_link).
